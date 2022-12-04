@@ -7,9 +7,9 @@ import os
 from colorama import init, Fore
 
 try:
-    os.system("cls")
-except:
     os.system("clear")
+except:
+    os.system("cls")
 
 
 Write.Print("""
