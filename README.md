@@ -28,39 +28,7 @@ chmod +x ./install.sh
 ``
 python3 fake.py
 ``
-<h3>How to install for TERMUX</h3>
 
-``
-pkg update && pkg upgrade
-``
-
-``
-pkg install git -y
-``
-
-``
-pkg install python && pkg install python2 -y
-``
-
-``
-git clone https://github.com/Gheris-579/Fake-SMS.git
-``
-
-``
-pkg install bash
-``
-
-``
-cd Fake-sms
-``
-
-``
-sh install.sh
-``
-
-``
-python3 fake.py
-``
 
 
 # Photo
