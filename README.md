@@ -10,7 +10,7 @@ sudo apt-get update
 ``
 
 ``
-git clone 
+git clone https://github.com/Gheris-579/Fake-SMS.git
 ``
 
 ``
@@ -43,7 +43,7 @@ pkg install python && pkg install python2 -y
 ``
 
 ``
-git clone
+git clone https://github.com/Gheris-579/Fake-SMS.git
 ``
 
 ``
