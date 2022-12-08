@@ -3,7 +3,8 @@
 
 <h2>The function of this tool is to send anonymous messages but this tool can only send one message per day </h2>
 
-<h2>WARNIG: Dont use this to harm others ! This script is only for and ducational purposes or to prank</h2>
+<h2>WARNIG:  Dont use this to harm others ! This script is only for and ducational purposes or to prank</h2>
+
 <h1  align="center">How to install</h1>
 
 ``
@@ -36,9 +37,12 @@ python3 fake.py
 ***
 
 
-![github](https://user-images.githubusercontent.com/103877241/205496862-6463e7e3-72fd-42db-81e5-50cf93b0e063.png)
+![Immagine 2022-12-08 170616](https://user-images.githubusercontent.com/103877241/206506999-b27f2e77-072e-4b03-aa5c-e0a576813bf8.png)
 
 
-![WhatsApp Image 2022-12-03 at 4 12 51 PM](https://user-images.githubusercontent.com/103877241/205496868-39c371fb-b185-4c1c-a486-6d8d969ce7e2.jpeg)
+
+![WhatsApp Image 2022-12-08 at 5 29 59 PM](https://user-images.githubusercontent.com/103877241/206507769-edf1b5e0-c655-40a5-b365-7e0ec9eefa6b.jpeg)
+
+
 
 
