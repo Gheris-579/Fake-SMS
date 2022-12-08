@@ -11,7 +11,12 @@ try:
 except:
     os.system("cls")
 
+# some colors
+init()
+GREEN = Fore.GREEN
+RED = Fore.RED
 
+print(f"{RED} WARNIG : {GREEN}Dont use this to harm others ! THIS script is only for and ducational purposes or to prank ")
 Write.Print("""
                                         This TOOLS WORKS ONLY ONCE A DAY
                                         
@@ -32,9 +37,7 @@ Write.Print("""
                       |__________________________________|               
 \n""",Colors.blue_to_red, interval=0.01)
 
-# some colors
-init()
-GREEN = Fore.GREEN
+
 
 def main():
     phone = Write.Input("[*] Enter number of the victim : ",Colors.yellow_to_red)
