@@ -16,7 +16,7 @@ init()
 GREEN = Fore.GREEN
 RED = Fore.RED
 
-print(f"{RED} WARNIG : {GREEN}Dont use this to harm others ! THIS script is only for and ducational purposes or to prank ")
+print(f"{RED} WARNING : {GREEN}Dont use this to harm others ! This script is only for and educational purposes not to prank")
 Write.Print("""
                                         This TOOLS WORKS ONLY ONCE A DAY
                                         
