@@ -1,6 +1,7 @@
 """
 Author:Gheris :)
 """
+#! /usr/bin/python3
 from pystyle import Colors, Colorate, Write #pip install pystyle
 import requests
 import os
