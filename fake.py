@@ -7,10 +7,7 @@ import requests
 import os
 from colorama import init, Fore
 
-try:
-    os.system("clear")
-except:
-    os.system("cls")
+os.system('cls' if os.name == 'nt' else 'clear')
 
 # some colors
 init()
