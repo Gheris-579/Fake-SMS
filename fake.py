@@ -3,13 +3,14 @@ Author:Gheris :)
 """
 #!/usr/bin/python3
 from pystyle import Colors, Colorate, Write #pip install pystyle
-import requests
+import requests # pip install requests
 import os
-from colorama import init, Fore
+from colorama import init, Fore # pip install colorama
+
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
-# some colors
+# colors
 init()
 GREEN = Fore.GREEN
 RED = Fore.RED
