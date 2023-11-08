@@ -3,7 +3,7 @@
 
 <h2>The function of this tool is to send anonymous messages but this tool can only send one message per day </h2>
 
-<h2>WARNING:  Dont use this to harm others ! This script is only for and educational purposes not to prank</h2>
+<h2> WARNING:  Dont use this to harm others ! This script is only for and educational purposes not to prank</h2>
 
 <h1  align="center">How to install</h1>
 
