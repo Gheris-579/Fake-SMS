@@ -1,7 +1,7 @@
 # SMS Sender Tool
 
  
-![Python Version](https://img.shields.io/badge/python-3.6%2B-blue) ![License](https://img.shields.io/badge/license-Unlicensed-lightgrey) ![Build Status](https://img.shields.io/github/actions/workflow/status/Gheris-579/sms-sender-tool/ci.yml?branch=main) ![GitHub Issues](https://img.shields.io/github/issues/Gheris-579/sms-sender-tool)
+![Python Version](https://img.shields.io/badge/python-3.6%2B-blue) 
 
 ## Table of Contents
 - [What’s This Project About?](#whats-this-project-about)
