@@ -1,4 +1,4 @@
-# SMS Sender Tool
+# Fake-sms
 
  
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue) 
